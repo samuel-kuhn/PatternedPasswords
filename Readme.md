@@ -47,7 +47,10 @@ Output of **uulln**(**u**pper + **u**pper + **l**ower + **l**ower + **n**umber):
 
 Example Usage:
 --------
-> PatternedPasswords.py -s "!$@" uulns -o sample-output.txt #creates the sample output provided in this repo
+```PatternedPasswords.py -s "!$@" uulns -o sample-output.txt```
 
+creates the sample output provided in this repo
 
-> PatternedPasswords.py --all lluullss -o wordlist.txt # use all special characters and the pattern lluullss
+```PatternedPasswords.py --all lluullss -o wordlist.txt```
+
+use all special characters and the pattern lluullss
