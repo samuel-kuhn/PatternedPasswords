@@ -37,11 +37,12 @@ Output of **uulln**(**u**pper + **u**pper + **l**ower + **l**ower + **n**umber):
 >1. AAaa0
 >2. AAaa1
 >3. AAaa2
+
+---SNIP---
+
+>4569759\. ZZzz8
 >
->---SNIP---
->
->4569759. ZZzz8
->4569760. ZZzz9
+>4569760\. ZZzz9
 (Yes there would be 4569760 combinations)
 
 Example Usage:
